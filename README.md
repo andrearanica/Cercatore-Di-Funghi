@@ -1,8 +1,8 @@
 <!--#-->
 <h1>🎮 Cercatore Di Funghi</h1>
-A videogame made in C++ for school. You can move a player into a map to find all the mooshrooms. To do a map I used a char matrix and I didn't used external graphics library
+A videogame made in C++ for school. You can move a player into a map to find all the mooshrooms. To do a map I used a char matrix and I didn't use external graphics library
  
-<!--<ol></ol>re--(anytime you close the program it willOi  -->
+<!--<ol></ol>re--(anytime you close the program it willOi d -->
  
 <h3>Data and struct</h3>
 To do this game I used A char matrix to simulate a map and a lot of variables
